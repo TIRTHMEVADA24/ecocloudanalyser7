@@ -24,7 +24,7 @@ export default function Home() {
             <span className="text-gradient">Sustainable Future</span>
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300 mb-8 max-w-xl">
-            EcoTrack Assistant helps you monitor cloud expenditures, compare major providers, and analyze the environmental impact of your AI and cloud operations.
+            EcoCloud Analyser helps you monitor cloud expenditures, compare major providers, and analyze the environmental impact of your AI and cloud operations.
           </p>
           <div className="flex flex-wrap gap-4">
             <Link 
