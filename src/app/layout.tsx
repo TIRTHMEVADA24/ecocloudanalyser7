@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "EcoTrack Assistant",
+  title: "EcoCloud Analyser",
   description: "Cloud Cost Calculator and Sustainability Monitor",
 };
 
