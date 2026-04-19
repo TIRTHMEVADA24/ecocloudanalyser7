@@ -20,7 +20,7 @@ export const exportToPDF = async () => {
     });
     
     pdf.addImage(imgData, "PNG", 0, 0, canvas.width, canvas.height);
-    pdf.save("ecotrack-report.pdf");
+    pdf.save("ecocloud-analyser-report.pdf");
   } catch (error) {
     console.error("Failed to export PDF", error);
   }
