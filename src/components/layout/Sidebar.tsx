@@ -23,7 +23,7 @@ export function Sidebar() {
         <div className="flex items-center gap-2">
           <Leaf className="text-emerald-500" size={24} />
           <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-emerald-500 to-teal-400">
-            EcoTrack
+            EcoCloud Analyser
           </h1>
         </div>
       </div>
